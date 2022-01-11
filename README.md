@@ -15,6 +15,8 @@
 - [gerador de cnpj](https://www.4devs.com.br/gerador_de_cnpj) ( gerador de cnpj)
 - [gerador de cpf](https://www.4devs.com.br/gerador_de_cpf) ( gerador de cpf)
 - [gerador de titulo de eleitor](https://www.4devs.com.br/gerador_de_titulo_de_eleitor) ( gerador de titulo de eleitor)
+- [Caelum TITULO ELEITOR](https://github.com/caelum/caelum-stella/blob/master/stella-core/src/main/java/br/com/caelum/stella/validation/TituloEleitoralValidator.java) 
+- [Caelum CPF](https://github.com/caelum/caelum-stella/blob/master/stella-core/src/main/java/br/com/caelum/stella/validation/CNPJValidator.java) 
 
 ## Exercicios
 - Como validar um CPF
