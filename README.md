@@ -25,4 +25,4 @@
 - Formatação do CPF e do CNPJ
 - Formatação hora e data
 - Formatação de moeda
-- utilização API CEP
+- utilização WebService CEP
