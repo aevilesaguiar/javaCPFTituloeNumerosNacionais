@@ -17,8 +17,10 @@
 - [gerador de titulo de eleitor](https://www.4devs.com.br/gerador_de_titulo_de_eleitor) ( gerador de titulo de eleitor)
 - [Caelum TITULO ELEITOR](https://github.com/caelum/caelum-stella/blob/master/stella-core/src/main/java/br/com/caelum/stella/validation/TituloEleitoralValidator.java) 
 - [Caelum CPF](https://github.com/caelum/caelum-stella/blob/master/stella-core/src/main/java/br/com/caelum/stella/validation/CNPJValidator.java) 
+- [Moneta via Maven](https://mvnrepository.com/artifact/org.javamoney/moneta/1.4.2) O JSR 354 fornece uma API para representar, transportar e realizar cálculos abrangentes com dinheiro e moeda. Este módulo implementa JSR 354.
 
 ## Exercicios
 - Como validar um CPF
 - Validando cnpj e titulo de eleitor
 - Formatação do CPF e do CNPJ
+- Formatação hora e data
