@@ -13,6 +13,7 @@
 - [JSR 354 RI](https://javamoney.github.io/ri.html) ( Por meio deste, são fornecidas basicamente implementações de valores, moedas e arredondamentos.)
 - [ViaCep](https://viacep.com.br/) ( Procurando um webservice gratuito e de alto desempenho para consultar Códigos de Endereçamento Postal (CEP) do Brasil? Utilize o serviço, melhore a qualidade de suas aplicações web e colabore para manter esta base de dados atualizada.)
 - [ViaCep](https://github.com/gilberto-torrezan/viacep)
+- [ViaCep - Maven](https://mvnrepository.com/artifact/com.github.gilberto-torrezan/viacep/1.2.0)
 - [gerador de cnpj](https://www.4devs.com.br/gerador_de_cnpj) ( gerador de cnpj)
 - [gerador de cpf](https://www.4devs.com.br/gerador_de_cpf) ( gerador de cpf)
 - [gerador de titulo de eleitor](https://www.4devs.com.br/gerador_de_titulo_de_eleitor) ( gerador de titulo de eleitor)
