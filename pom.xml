@@ -6,11 +6,32 @@
   
   
   <dependencies>
+  
+  <!-- DEPENDENCIAS COPIADAS -->
   <dependency>
     <groupId>br.com.caelum.stella</groupId>
     <artifactId>caelum-stella-core</artifactId>
     <version>2.1.2</version>
 </dependency>
+
+<!-- https://mvnrepository.com/artifact/org.javamoney/moneta -->
+<dependency>
+    <groupId>org.javamoney</groupId>
+    <artifactId>moneta</artifactId>
+    <version>1.4.2</version>
+    <type>pom</type>
+</dependency>
+
+<!-- https://mvnrepository.com/artifact/com.github.gilberto-torrezan/viacep -->
+<dependency>
+    <groupId>com.github.gilberto-torrezan</groupId>
+    <artifactId>viacep</artifactId>
+    <version>1.2.0</version>
+</dependency>
+
+
 </dependencies>
+
+
 
 </project>
