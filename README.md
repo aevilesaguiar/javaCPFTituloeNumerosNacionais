@@ -14,6 +14,7 @@
 - [ViaCep](https://viacep.com.br/) ( Procurando um webservice gratuito e de alto desempenho para consultar Códigos de Endereçamento Postal (CEP) do Brasil? Utilize o serviço, melhore a qualidade de suas aplicações web e colabore para manter esta base de dados atualizada.)
 - [gerador de cnpj](https://www.4devs.com.br/gerador_de_cnpj) ( gerador de cnpj)
 - [gerador de cpf](https://www.4devs.com.br/gerador_de_cpf) ( gerador de cpf)
+- [gerador de titulo de eleitor](https://www.4devs.com.br/gerador_de_titulo_de_eleitor) ( gerador de titulo de eleitor)
 
 ## Exercicios
 - Como validar um CPF
